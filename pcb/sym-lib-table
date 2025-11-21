@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GSB1C411111DS1HR")(type "KiCad")(uri "${KIPRJMOD}/footprints/GSB1C411111DS1HR.kicad_sym")(options "")(descr ""))
+  (lib (name "ACJMIH")(type "KiCad")(uri "${KIPRJMOD}/footprints/ACJMIH.kicad_sym")(options "")(descr ""))
+  (lib (name "PCM1860DBT")(type "KiCad")(uri "${KIPRJMOD}/footprints/PCM1860DBT.kicad_sym")(options "")(descr ""))
+  (lib (name "OPA1678IDR")(type "KiCad")(uri "${KIPRJMOD}/footprints/OPA1678IDR.kicad_sym")(options "")(descr ""))
+  (lib (name "SD_CARD")(type "KiCad")(uri "${KIPRJMOD}/footprints/SD_CARD.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP6006T")(type "KiCad")(uri "${KIPRJMOD}/footprints/MCP6006T.kicad_sym")(options "")(descr ""))
+)
