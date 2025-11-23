@@ -1,4 +1,4 @@
-24746078048362336
+24753111632066880
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99512,6 +99512,13 @@ Varistor VF
 2
 2
 footprints
+54-00178
+
+
+0
+6
+6
+footprints
 ACJMIH
 
 
@@ -99525,6 +99532,13 @@ GSB1C411111DS1HR
 0
 16
 16
+footprints
+MCP6006T
+<b>5-Lead Plastic Small Outline Transistor (LTY) [SC70]</b><br>
+
+0
+5
+5
 footprints
 OPA1678IDR
 
@@ -99553,3 +99567,17 @@ SD_CARD
 0
 15
 15
+footprints
+TPA3138D2PWPR
+
+TPA3138D2PWPR 
+0
+50
+30
+footprints
+TPA6130A2RTJR
+
+
+0
+21
+21

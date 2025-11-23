@@ -5510,7 +5510,7 @@
 			)
 		)
 	)
-	(global_label "DETECT_HP"
+	(global_label "nHP_DETECT"
 		(shape input)
 		(at 162.56 139.7 0)
 		(fields_autoplaced yes)
@@ -5522,7 +5522,7 @@
 		)
 		(uuid "b9b6cf2b-43ef-407a-8c79-55d7d7c37acf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.8865 139.7 0)
+			(at 177.0355 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
