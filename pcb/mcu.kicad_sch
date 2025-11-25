@@ -3428,16 +3428,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 147.32) (xy 130.81 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d4bcba5-b08f-41c3-bdd0-e93d66b55406")
-	)
-	(wire
-		(pts
 			(xy 63.5 125.73) (xy 63.5 127)
 		)
 		(stroke
@@ -3658,6 +3648,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 147.32) (xy 130.81 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "803b9179-f7e0-415b-896e-ed4ed9cc5b1b")
+	)
+	(wire
+		(pts
 			(xy 128.27 114.3) (xy 130.81 114.3)
 		)
 		(stroke
@@ -3755,16 +3755,6 @@
 			(type default)
 		)
 		(uuid "8cc76aeb-b774-4970-a9a9-f7060d280d11")
-	)
-	(wire
-		(pts
-			(xy 161.29 111.76) (xy 165.1 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8d642e26-13a3-48b0-b35b-37be9de53b2c")
 	)
 	(wire
 		(pts
@@ -4045,6 +4035,16 @@
 			(type default)
 		)
 		(uuid "b09f288e-011b-41dc-a089-121605df3dfb")
+	)
+	(wire
+		(pts
+			(xy 161.29 111.76) (xy 165.1 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4856447-193c-4ff9-b6ec-5873d50965b7")
 	)
 	(wire
 		(pts
@@ -5226,7 +5226,7 @@
 	)
 	(global_label "DAC_SD"
 		(shape input)
-		(at 165.1 111.76 0)
+		(at 165.1 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5236,7 +5236,7 @@
 		)
 		(uuid "6b99cd0c-9687-4269-bb69-345885d023c8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.5195 111.76 0)
+			(at 175.1609 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5248,22 +5248,22 @@
 	)
 	(global_label "DAC_LRCK"
 		(shape input)
-		(at 165.1 109.22 0)
+		(at 128.27 147.32 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6bfdd1dd-0bf1-4fba-8ce2-e4194b780feb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.1609 109.22 0)
+			(at 116.8786 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -5578,22 +5578,22 @@
 	)
 	(global_label "DAC_MCK"
 		(shape input)
-		(at 128.27 147.32 180)
+		(at 165.1 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "d1b33253-59a6-4af2-9eb2-99e781e5ae9d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.8786 147.32 0)
+			(at 177.5195 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
