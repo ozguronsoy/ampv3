@@ -1055,53 +1055,7 @@
 		)
 	)
 	(sheet
-		(at 35.56 69.85)
-		(size 19.05 6.35)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "5775584a-b779-4381-b38d-703ddab5f679")
-		(property "Sheetname" "sd_card"
-			(at 35.56 69.1384 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "sd_card.kicad_sch"
-			(at 35.56 76.7846 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "ampv3"
-				(path "/337640f1-5675-4859-bbbb-6a34a454d08f"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 35.56 96.52)
+		(at 35.56 82.55)
 		(size 19.05 6.35)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1117,7 +1071,7 @@
 		)
 		(uuid "79d31620-2d26-4e80-86ac-b374b2363e81")
 		(property "Sheetname" "output"
-			(at 35.56 95.8084 0)
+			(at 35.56 81.8384 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1128,7 +1082,7 @@
 			)
 		)
 		(property "Sheetfile" "output.kicad_sch"
-			(at 35.56 103.4546 0)
+			(at 35.56 89.4846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1147,7 +1101,7 @@
 		)
 	)
 	(sheet
-		(at 35.56 82.55)
+		(at 35.56 68.58)
 		(size 19.05 6.35)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1163,7 +1117,7 @@
 		)
 		(uuid "b28c60e2-0464-4032-ba46-700b4b9584b3")
 		(property "Sheetname" "mcu"
-			(at 35.56 81.8384 0)
+			(at 35.56 67.8684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1174,7 +1128,7 @@
 			)
 		)
 		(property "Sheetfile" "mcu.kicad_sch"
-			(at 35.56 89.4846 0)
+			(at 35.56 75.5146 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
